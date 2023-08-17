@@ -4,14 +4,16 @@ Brief description of your project.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+- [Project Name](#project-name)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Configuration](#configuration)
+  - [Features](#features)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
+  - [Contact](#contact)
 
 ## Installation
 
@@ -22,6 +24,10 @@ Brief description of your project.
 ## Usage
 
 Provide a brief example or a step-by-step guide on how to use your project.
+
+```
+npm run dev
+```
 
 ## Configuration
 
