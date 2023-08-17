@@ -109,5 +109,5 @@ Once the application is running, you can:
 
 ### Environment Variables 
 in .env file fill the below environment variable
-- NEXT_PUBLIC_CLOUDINARY_API_KEY=< your api secret>
-- CLOUDINARY_API_SECRET=< your cloudinary secret>
+- NEXT_PUBLIC_CLOUDINARY_API_KEY=your api secret
+- CLOUDINARY_API_SECRET=your cloudinary secret>
