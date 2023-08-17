@@ -1,33 +1,27 @@
 # Airbnb Clone
 
-A clone of the Airbnb website created as a personal project.
+This is a clone of popular website [airbnb](#https://www.airbnb.co.in/)
 
-![Project Preview](screenshots/app-screenshot.png)
+
+ 
+
+## ScreenShots
+![Basic Logged out screen](./src/assets/logout.png)
+![SignUp Modal](src/assets/Signup.png)
 
 ## Table of Contents
-
-- [Airbnb Clone](#airbnb-clone)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Features](#features)
-    - [Authentication](#authentication)
-    - [Create Your Own Hotel](#create-your-own-hotel)
-    - [Hotel Reservation](#hotel-reservation)
-    - [Image Upload](#image-upload)
-    - [Trips](#trips)
-    - [Cancel Reservations](#cancel-reservations)
-    - [Favorites](#favorites)
-    - [Logout](#logout)
-    - [Filtering](#filtering)
-  - [Getting Started](#getting-started)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
 
 ## Introduction
 
 Welcome to my Airbnb clone project! This project aims to replicate the core features of the Airbnb website, allowing users to browse and book accommodations. Users can also create and list their own hotels, manage reservations, and more.
+
+Airbnb if of the most popular website which has beautiful UI/UX be it their 
+1. Carousels 
+2. Hover Effects
+3. Models 
+4. Transitions and animations
+5. Filtering UI based of users choice of hotels 
+6. Icons , Calenders , beautiful buttons
 
 ## Features
 
@@ -58,15 +52,15 @@ Users can upload images for their hotels to showcase them to potential guests.
 
 ### Trips
 
-Users can view all their upcoming reservations on the /trips page.
+Users can view all their upcoming reservations on the by clickng on My Trips on which is seen by clicking on top right corner of the page.
 
 ### Cancel Reservations
 
-Hotel creators can cancel guest reservations for their own hotels on the /reservations page.
+Hotel creators can cancel guest reservations  by clickng on My reservations which is seen by clicking on top right corner of the page.
 
 ### Favorites
 
-Users can like specific hotels and view their liked hotels on the /favorites page.
+Users can like specific hotels and view their liked hotels on My Favourites which is seen by clicking on top right corner of the page.
 
 ### Logout
 
@@ -74,18 +68,27 @@ Users can log out of their accounts.
 
 ### Filtering
 
-Users can filter hotels by country, date, price, and available rooms for rent.
+Users can filter hotels by country, Category, dates, price and based on rooms available .
 
 ## Getting Started
 
 Follow these steps to get the project up and running on your local machine:
 
-1. Clone the repository: `git clone https://github.com/your-username/airbnb-clone.git`
-2. Navigate to the project directory: `cd airbnb-clone`
-3. Install dependencies: `npm install` or `yarn install`
-4. Set up environment variables for authentication (see [Configuration](#configuration))
-5. Run the application: `npm start` or `yarn start`
-6. Open your web browser and navigate to `http://localhost:3000`
+### Project setup
+Clone the repository:
+```
+git clone https://github.com/Navadeepreddy16/test.git
+```
+
+ Navigate to the project directory: 
+ ```
+ cd airbnb-clone
+ ```
+
+6. Install dependencies: `npm install` or `yarn install`
+7. Set up environment variables for authentication (see [Configuration](#configuration))
+8. Run the application: `npm start` or `yarn start`
+9. Open your web browser and navigate to `http://localhost:3000`
 
 ## Usage
 
@@ -104,21 +107,7 @@ Once the application is running, you can:
 - Filter hotels by various criteria
 - ...
 
-## Contributing
-
-Contributions are welcome! To contribute:
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-name`
-3. Make your changes and commit: `git commit -m 'Add feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Create a pull request
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or feedback, contact me at your@email.com.
+### Environment Variables 
+in .env file fill the below environment variable
+- NEXT_PUBLIC_CLOUDINARY_API_KEY=<your api key>
+- CLOUDINARY_API_SECRET=<API SECRET>
