@@ -9,6 +9,7 @@ Brief description of your project.
   - [Installation](#installation)
   - [Usage](#usage)
   - [screen shots](#screen-shots)
+  - [foo](#foo)
   - [Configuration](#configuration)
   - [Features](#features)
   - [Contributing](#contributing)
@@ -32,7 +33,10 @@ npm run dev
 
 
 ## screen shots
-![here is the screen shot of the output ](/public/my-screenshot.png)
+![here is the screen shot of the output ](./public/my-screenshot.png)
+
+## foo
+![will i see ](src/assets/foo4.png)
 
 ## Configuration
 
