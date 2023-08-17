@@ -8,6 +8,7 @@ Brief description of your project.
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [screen shots](#screen-shots)
   - [Configuration](#configuration)
   - [Features](#features)
   - [Contributing](#contributing)
@@ -28,6 +29,10 @@ Provide a brief example or a step-by-step guide on how to use your project.
 ```
 npm run dev
 ```
+
+
+## screen shots
+![here is the screen shot of the output ](../my-screenshot.png)
 
 ## Configuration
 
