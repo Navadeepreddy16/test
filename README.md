@@ -105,9 +105,9 @@ Once the application is running, you can:
 - Like and view your liked hotels
 - Log out of your account
 - Filter hotels by various criteria
-- ...
+
 
 ### Environment Variables 
 in .env file fill the below environment variable
-- NEXT_PUBLIC_CLOUDINARY_API_KEY=<your api key>
-- CLOUDINARY_API_SECRET=<API SECRET>
+- NEXT_PUBLIC_CLOUDINARY_API_KEY=< your api secret>
+- CLOUDINARY_API_SECRET=< your cloudinary secret>
