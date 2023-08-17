@@ -85,10 +85,10 @@ git clone https://github.com/Navadeepreddy16/test.git
  cd airbnb-clone
  ```
 
-6. Install dependencies: `npm install` or `yarn install`
-7. Set up environment variables for authentication (see [Configuration](#configuration))
-8. Run the application: `npm start` or `yarn start`
-9. Open your web browser and navigate to `http://localhost:3000`
+- Install dependencies: `npm install` or `yarn install`
+- Set up environment variables for authentication (see [Configuration](#configuration))
+- Run the application: `npm start` or `yarn start`
+- Open your web browser and navigate to `http://localhost:3000`
 
 ## Usage
 
