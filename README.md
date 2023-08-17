@@ -32,7 +32,7 @@ npm run dev
 
 
 ## screen shots
-![here is the screen shot of the output ](../my-screenshot.png)
+![here is the screen shot of the output ](/public/my-screenshot.png)
 
 ## Configuration
 
