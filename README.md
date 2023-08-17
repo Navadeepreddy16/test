@@ -31,6 +31,20 @@ Provide a brief example or a step-by-step guide on how to use your project.
 npm run dev
 ```
 
+```javascript
+const fetcher=async ()=>{
+   try{
+   const res=await fetch('../')
+   const data=await res.json()
+   console.log(data)
+   return data
+   }catch(e){
+      console.error(e)
+   }
+}
+
+```
+
 
 ## screen shots
 ![here is the screen shot of the output ](./public/my-screenshot.png)
