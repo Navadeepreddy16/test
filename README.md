@@ -17,8 +17,8 @@ Brief description of your project.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/Navadeepreddy16/test.git`
+2. Navigate to the project directory: `cd test`
 3. Install dependencies: `npm install` or `yarn install`
 
 ## Usage
